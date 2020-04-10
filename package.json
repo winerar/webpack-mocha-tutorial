@@ -1,0 +1,25 @@
+{
+  "name": "webpack-mocha-tutorial",
+  "version": "1.0.0",
+  "description": "wp tut",
+  "main": "index.js",
+  "scripts": {
+    "test": "wp-test",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winerar/webpack-mocha-tutorial.git"
+  },
+  "author": "winerar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winerar/webpack-mocha-tutorial/issues"
+  },
+  "homepage": "https://github.com/winerar/webpack-mocha-tutorial#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
